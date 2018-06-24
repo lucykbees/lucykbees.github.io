@@ -24,7 +24,7 @@ kaggle_username: ucandotherobot
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
+#theme: jekyll-swiss
 plugins:
   - jekyll-feed
   
