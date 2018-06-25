@@ -28,7 +28,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   
-remote_theme: broccolini/swiss
+#remote_theme: broccolini/swiss
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

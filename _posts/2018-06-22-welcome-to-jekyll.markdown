@@ -1,25 +1,55 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-06-22 18:08:01 +0100
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+title:  "My Top 5 ways to learn "Data Science""
+date:   2018-05-20 18:10:11 +0100
+categories: data-science, learning
+--
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+There are infinite online learning resources to introduce and engage everyone with the topic of “Data Science”. But the market place of online learning, especially in this field, has become saturated with many paid for courses. In my opinion a lot of the paid for “Data Science” courses only additional offering to the DIY online course route, is a course completion certificate. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+So for those of you who are looking for free resources and ways to begin your data science learning journey here are my recommendations for FREE learning resources (and 1 reasonably priced book) to get you started. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## For the fundamentals 
+
+To start with, you should probably start by taking a few online courses. Firstly, they are more engaging then reading a web page and will introduce you at a high level to the topic. Then you can work out what you might already know, and what you don’t have a clue on. 
+
+Recently I needed to skill up on A/B testing fundamentals,  and found this free course produced by google on the [Udacity][udacity] website and was very impressed.  I have used many online university style websites but found this place to have the best free content, which might be as its produced from industry sources  rather than academia. 
+https://eu.udacity.com/courses/data-science
+
+## For the Tech Skills 
+
+The tech “stack” for data science appears to be complex, but really focusing on learning R or Python will give you the fundementals you need. It’s best to focus on one at a time.. the choice is yours but you will find many R vs Python blogs out there to help you choose. 
+
+Most online courses offer a free “intro” to programming languages. Two places I have both tried and recommend are CodeAcademy [codeaccademy] & DataCamp [data-camp]. 
+
+You will find a lot of the courses will incorporate R, Python or some other tool into the course content. When the case in “other” a  free course might be a way to push this specific product, rather then a learning oppertunity- so keep this in mind when choosing a course. 
+A tip I found on this [blog][Best-DS-Courses] was this [udacity course][udacity-intro]. This course gives you teaching on Analytics and an introduction to some very useful libraries NumPy, Pandas, and Matplotlib. 
+
+Another resource that I have to mention, which I apologise is not free is this [book][kdnuggets]. I got this at the beginning of my masters to help with my programming skills. It gave me a great insights on how data storage and manipulation works in python and covers a the core range of machine learning topics. 
+
+## Kaggle to bring it all together & Sharing you work and more..  
+
+I have found my learning was enhanced by taking on a project. Rather then consuming an endless supply of resources It allowed me to focus. This allowed me to slowly introduce my self to new topics and also find out what areas of Data Science interested me. 
+
+[Kaggle][kaggle] provides all the resources you need in one place. You have data sets, a place to upload and share code with your community [Kernels] and competitions where you can win money. 
+
+## Misc.
+
+I have always found https://www.kdnuggets.com/ a good place to get an opinion from the data science community on things. Or just who is winning the Python vs R fight. 
+
+So I hope I have maybe introduced you to a new bit of wisdom however small that will help you in your journey to becoming a master of the data domain. 
+
+
+GOOD LUCK 
+
+[udacity]: https://eu.udacity.com/courses/data-science
+[Best-DS-Courses]:  https://medium.freecodecamp.org/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
+[udacity-intro]:  https://www.class-central.com/course/udacity-intro-to-data-analysis-4937 
+[oreilly]:  http://shop.oreilly.com/product/0636920033400.do
+[kdnuggets]: https://www.kdnuggets.com/ 
+[kaggle]: https://www.kaggle.com/
+[data-camp]: https://www.datacamp.com/home
+[codeaccademy]: https://www.codecademy.com/learn
+
