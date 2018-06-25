@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "My Top 5 ways to learn "Data Science""
+title:  "My Top 5 ways to learn Data Science"
 date:   2018-05-20 18:10:11 +0100
 categories: data-science, learning
 
