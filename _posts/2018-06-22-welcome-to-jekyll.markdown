@@ -3,7 +3,7 @@ layout: post
 title:  "My Top 5 ways to learn "Data Science""
 date:   2018-05-20 18:10:11 +0100
 categories: data-science, learning
---
+---
 
 
 
@@ -22,7 +22,7 @@ https://eu.udacity.com/courses/data-science
 
 The tech “stack” for data science appears to be complex, but really focusing on learning R or Python will give you the fundementals you need. It’s best to focus on one at a time.. the choice is yours but you will find many R vs Python blogs out there to help you choose. 
 
-Most online courses offer a free “intro” to programming languages. Two places I have both tried and recommend are CodeAcademy [codeaccademy] & DataCamp [data-camp]. 
+Most online courses offer a free “intro” to programming languages. Two places I have both tried and recommend are [CodeAcademy][codeaccademy] & [DataCamp][data-camp]. 
 
 You will find a lot of the courses will incorporate R, Python or some other tool into the course content. When the case in “other” a  free course might be a way to push this specific product, rather then a learning oppertunity- so keep this in mind when choosing a course. 
 A tip I found on this [blog][Best-DS-Courses] was this [udacity course][udacity-intro]. This course gives you teaching on Analytics and an introduction to some very useful libraries NumPy, Pandas, and Matplotlib. 
@@ -33,7 +33,7 @@ Another resource that I have to mention, which I apologise is not free is this [
 
 I have found my learning was enhanced by taking on a project. Rather then consuming an endless supply of resources It allowed me to focus. This allowed me to slowly introduce my self to new topics and also find out what areas of Data Science interested me. 
 
-[Kaggle][kaggle] provides all the resources you need in one place. You have data sets, a place to upload and share code with your community [Kernels] and competitions where you can win money. 
+[Kaggle][kaggle] provides all the resources you need in one place. You have data sets, a place to upload and share code with your community Kernels and competitions where you can win money. 
 
 ## Misc.
 
