@@ -27,6 +27,7 @@ markdown: kramdown
 #theme: jekyll-swiss
 plugins:
   - jekyll-feed
+future: true
   
 #remote_theme: broccolini/swiss
 
