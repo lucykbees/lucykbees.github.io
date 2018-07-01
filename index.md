@@ -1,5 +1,7 @@
 ---
+
 layout: home
+
 ---
 # A little about Lucy, 
 
