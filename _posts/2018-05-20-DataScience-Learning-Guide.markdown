@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Starter Guide for learning Data Science"
+title:  "A starter guide for learning Data Science"
 date:   2018-05-20 18:10:11 +0100
 categories: data-science, learning
 
