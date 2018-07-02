@@ -7,8 +7,6 @@ categories: data-science, learning
 
 ---
 
-You can view the python code I used for my plots [here](https://www.kaggle.com/ucandotherobot/swarmplots-for-fashion-cover-data)
-
 ## The problem with categorical data..  
 
 I recently was given a fashion data set for a presentation and was excited to start using my new python skills to create some beautiful plots for the content. 
@@ -71,34 +69,30 @@ Its very often with sales data that you have a few individual items with extreme
 In normal data science techniques you want to filter them out..
 But in real life for sales data these anomalies are your best and worst selling products 
 
-Here I have firstly a plot of average sales - looking at this high level, you could jump to conclusions that the shoes category in the top performer
+The first bar chart is of average sales - looking at this summaried level, you could jump to conclusions that the shoes category in a top performer. 
 
-Below I have then have a plot of average cover (normalised with log) - you could again jump to conclusion about shoes, this time that is the worst performing
+The next chart is a plot of average cover (normalised with log) - you could again jump to conclusion about shoes, this time that is the worst performer. 
 
+Finally we have the swarm plot. In this plot each dot represents a line item, Here you can see that shoes has a few items with high cover and directs the observer to a better conclusion with points to investigate.
 
-Finally we have the swarm plot 
-
-In this plot each dot represents a line item,
-
-Here you can see that shoes has a few items with high cover
-And it also unmasks the average cover of the other categories
-
-Now you can see that many clothing and bag items are over performing on cover
-
+And it also unmasks the average cover of the other categories, Now you can see that many clothing and bag items are over performing compared to the average cover of there categories. 
 
 <figure>
 	<a href="/images/swarm.png"><img src="/images/swarm.png"></a>
 </figure>
 
-Will do more on plotting this data in future posts.. 
+Why choose swarm over a standard bar chart. 
 
-Inspired by this excellent seaborn [documentation](https://seaborn.pydata.org/tutorial/categorical.html)
-
-
-Main benefits of the swarm chart:
-
-* It points me in a direction, rather then looking line by line through the data in a spread sheet. 
+* By showing each line item as a data point, it provides the user with a direction to focus, rather then looking line by line through the data in a spread sheet. 
 
 * It also helps you to consume more of the data at once, as you can see both trend of cover and the overall distribution of the cover by brand. 
 
 * It stops you coming to generalised conclusions as you would with the bar chart, eg. For me this highlights that there are a few footwear brands with extremely high cover (worth investigating as new season) 
+
+
+You can view the python code I used to create the charts [here](https://www.kaggle.com/ucandotherobot/swarmplots-for-fashion-cover-data)
+
+Will do more on plotting with this data in future posts.. 
+
+Inspired by this excellent seaborn [documentation](https://seaborn.pydata.org/tutorial/categorical.html)
+
