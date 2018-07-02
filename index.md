@@ -4,12 +4,11 @@ layout: home
 
 ---
 
-# A little about Lucy, 
+# A little about Lucy. 
 
 A python developer with interests in fashion, data transformation & visualisation. 
 
-This blog is a place to share my personal projects. 
-
+This [blog](https://lucykbees.github.io/posts) is a place to share my personal projects. 
 
 I also share my python code on [kaggle](https://www.kaggle.com/ucandotherobot)
 
