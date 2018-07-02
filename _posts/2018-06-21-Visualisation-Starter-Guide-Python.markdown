@@ -47,15 +47,15 @@ But I didn't find advice on a great way to display the metric I was most interes
 
 ## Cover 
 
-Cover in merchandising is a quick way to work out sell through of an item, 
+Cover in merchandising is a quick way to work out sell through of an item. 
 
-It is simply 
+It is simply:
 
 current stock / average weekly sales 
 
-which gives you a quick estimate of how many weeks your stock will last based on how well it is performing currently
+This gives you a quick estimate of how many weeks your stock will last based on how well it is performing currently. 
 
-It is a great way to normalise your data, as you might have 1000 sales but 100000 units of stock 
+It is a great way to normalise your data, as you might have 1000 sales but 100000 units of stock. 
 
 Which would take 100 weeks to get rid of.. 
 
@@ -72,24 +72,24 @@ The next chart is a plot of average cover (normalised with log) - you could agai
 
 Finally we have the swarm plot. In this plot each dot represents a line item, Here you can see that shoes has a few items with high cover and directs the observer to a better conclusion with points to investigate.
 
-And it also unmasks the average cover of the other categories, Now you can see that many clothing and bag items are over performing on cover compared to the average cover of there categories. 
+And it also unmasks the average cover of the other categories, Now you can see that many clothing and bag items are under performing on cover compared to the average cover of there categories. 
 
 <figure>
 	<a href="/images/swarm.png"><img src="/images/swarm.png"></a>
 </figure>
 
-Why choose swarm over a standard bar chart or summary table
+Why choose swarm over a standard bar chart or summary table?: 
 
 * By showing each line item as a data point, it provides the user with a direction to focus, rather then looking line by line through the data in a spread sheet. 
 
 * It also helps you to consume more of the data at once, as you can see both trend of cover and the overall distribution of the cover by brand. 
 
-* It stops you coming to generalised conclusions as you would with the bar chart, eg. For me this highlights that there are a few footwear brands with extremely high cover (worth investigating if its current season) 
+* It stops you coming to generalised conclusions as you would with the bar chart, allowing you to see an overall trend but also the key points of interest. 
 
 
-You can view the python code I used to create the charts [here](https://www.kaggle.com/ucandotherobot/swarmplots-for-fashion-cover-data)
+You can view the python code I used to create the charts [here](https://www.kaggle.com/ucandotherobot/swarmplots-for-fashion-cover-data). 
 
 Will do more on plotting with this data in future posts.. 
 
-Inspired by this excellent seaborn [documentation](https://seaborn.pydata.org/tutorial/categorical.html)
+Inspired by this excellent seaborn [documentation](https://seaborn.pydata.org/tutorial/categorical.html). 
 
