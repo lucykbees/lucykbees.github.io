@@ -4,7 +4,14 @@ layout: post
 title:  "A starter guide for learning Data Science"
 description: "My top resources to start learning data science"
 date:   2018-05-20 18:10:11 +0100
-keywords: data-science, learning
+categories: 
+  - data-science
+tags:
+  - data science
+  - learning
+  - Kaggle
+  - Udacity
+  - python
 
 ---
 

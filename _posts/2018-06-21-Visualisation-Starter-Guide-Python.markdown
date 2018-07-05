@@ -4,7 +4,14 @@ layout: post
 title:  "Visualising Categorical Data For Merchandisers"
 description: "A look at ways to view cover in python data using seaborn & pandas"
 date:   2018-06-21 18:10:11 +0100
-keywords: data-science, learning
+categories: 
+  - Visulisation
+tags: 
+  - data science
+  - Visualisation
+  - fashion
+  - merchandising
+  - learning
 
 ---
 ## The problem with categorical data..  
