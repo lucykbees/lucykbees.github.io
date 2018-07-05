@@ -2,8 +2,9 @@
 
 layout: post
 title:  "Visualising Categorical Data For Merchandisers"
+description: "A look at ways to view cover in python data using seaborn & pandas"
 date:   2018-06-21 18:10:11 +0100
-categories: data-science, learning
+keywords: data-science, learning
 
 ---
 
