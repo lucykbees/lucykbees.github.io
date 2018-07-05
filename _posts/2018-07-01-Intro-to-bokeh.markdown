@@ -1,3 +1,4 @@
+
 ---
 
 layout: post
@@ -10,7 +11,4 @@ keywords: visualisation, learning
 ## Coming Soon 
 
 Creating interactive plot tools in [bokeh!](https://bokeh.pydata.org/en/latest/docs/gallery.html) 
-
-
-
 
